@@ -1,0 +1,3183 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 10
+/Kids [ 4 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 4634
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 692 cm
+Q
+q
+1 0 0 1 60 680 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Name: Dakshesh N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 668 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Department: CSBS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 656 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Roll No: 241401017) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 640 cm
+Q
+q
+1 0 0 1 60 620 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL 81.968 0 Td (Experiment 1: A Comparative Study Report) Tj T* -81.968 0 Td ET
+Q
+Q
+q
+1 0 0 1 60 590 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Traditional Coding vs. Low-Code Approach for Application Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 572 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (An Analytical Comparison of Two Software Development Methodologies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 556 cm
+Q
+q
+1 0 0 1 60 520 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (1. Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 456 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 46 Tm /F1 10 Tf 14 TL .07625 Tw (For decades, building software meant writing every instruction by hand in languages such as Java, Python, C#,) Tj T* 0 Tw -0.102143 Tw (or JavaScript. More recently, "low-code development" has emerged as an alternative that speeds up application) Tj T* 0 Tw 1.305833 Tw (delivery through visual tools, drag-and-drop components, and ready-made modules, reducing the amount of) Tj T* 0 Tw (code that has to be typed out manually.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 392 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 46 Tm /F1 10 Tf 14 TL 1.317857 Tw (This report compares the traditional coding approach with the low-code approach to building applications. It) Tj T* 0 Tw 1.197857 Tw (explains how each method functions, outlines the main gains low-code offers over conventional coding, and) Tj T* 0 Tw -0.057222 Tw (looks at where each approach fits best. The intent is to keep the discussion clear and self-contained, backed up) Tj T* 0 Tw (by comparison tables throughout.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 314 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 60 Tm /F1 10 Tf 14 TL 1.493333 Tw (As organizations look for ways to ship software more quickly while working within limited technical staffing,) Tj T* 0 Tw .565455 Tw (understanding the trade-offs between hand-written code and configuration-driven platforms matters more than) Tj T* 0 Tw .251875 Tw (ever. The report is broken into sections covering how each approach works, a side-by-side comparison of their) Tj T* 0 Tw .287857 Tw (traits, the specific gains low-code brings across the development lifecycle, real-world usage scenarios, and the) Tj T* 0 Tw (limitations worth weighing before committing to either path.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 278 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (2. Traditional Coding Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL -0.101333 Tw (Traditional coding is the conventional way of building software, where a programmer writes out every instruction) Tj T* 0 Tw -0.124706 Tw (of the application by hand in a programming language. The developer designs the logic, writes the syntax, wires) Tj T* 0 Tw (up the database connections, handles errors, and tests the application piece by piece.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 200 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7 Tm /F2 11 Tf 18 TL (2.1 Key Characteristics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 180 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Demands solid knowledge of programming languages such as Java, Python, C++, or JavaScript.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 162 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Developers write, compile, and test code by hand inside Integrated Development Environments \(IDEs\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 144 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Gives full control over the application's logic, structure, and performance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 126 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (The development cycle runs through planning, coding, testing, debugging, and deployment stages.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 108 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Works best for complex, large-scale, and heavily customized applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7 Tm /F2 11 Tf 18 TL (2.2 Commonly Used Languages and Tools) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+0.501961 0.501961 0.501961 rg
+/gRLs0 gs
+BT
+/F2-0 60 Tf
+72 TL
+ET
+BT
+1 0 0 1 -150.12 0 Tm
+(241401017) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 6153
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 704 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL .934 Tw (The table below lists a few widely used programming languages and development tools in traditional coding,) Tj T* 0 Tw (along with where they're typically applied.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 90 582 cm
+q
+.180392 .290196 .384314 rg
+n 0 114 432 -19 re f*
+1 1 1 rg
+n 0 95 432 -19 re f*
+.94902 .960784 .968627 rg
+n 0 76 432 -19 re f*
+1 1 1 rg
+n 0 57 432 -19 re f*
+.94902 .960784 .968627 rg
+n 0 38 432 -19 re f*
+1 1 1 rg
+n 0 19 432 -19 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 99 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Language / Tool) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 99 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Typical Area of Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Enterprise applications, Android apps, backend systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Web applications, automation scripts, data-driven applications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (C# / .NET) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Windows applications, enterprise software, game backends) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (JavaScript) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Web front-end and full-stack application development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Database design, queries, and data management) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 114 m 432 114 l S
+n 0 0 m 432 0 l S
+n 0 0 m 0 114 l S
+n 432 0 m 432 114 l S
+n 0 95 m 432 95 l S
+n 0 76 m 432 76 l S
+n 0 57 m 432 57 l S
+n 0 38 m 432 38 l S
+n 0 19 m 432 19 l S
+n 122.4 0 m 122.4 114 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 572 cm
+Q
+q
+1 0 0 1 60 536 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (3. Low-Code Development Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 486 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.510833 Tw (Low-code development is a modern approach to building software using visual interfaces, drag-and-drop) Tj T* 0 Tw .393846 Tw (components, and configuration rather than large volumes of hand-written code. Low-code platforms come with) Tj T* 0 Tw (pre-built templates, reusable components, and automated workflows that shorten the development process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 458 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7 Tm /F2 11 Tf 18 TL (3.1 Key Characteristics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 438 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Relies on visual development environments built around drag-and-drop blocks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 420 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Needs only minimal manual coding; small scripts are written only when required.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 402 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Lets both professional developers and non-technical users \(citizen developers\) build applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 384 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Comes with built-in integrations for databases, APIs, and third-party services.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 366 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Works best for rapid application development, prototypes, and business process applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 338 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7 Tm /F2 11 Tf 18 TL (3.2 Commonly Used Low-Code Platforms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 318 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (The table below lists a few widely used low-code platforms and where they are typically applied.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 90 196 cm
+q
+.180392 .290196 .384314 rg
+n 0 114 432 -19 re f*
+1 1 1 rg
+n 0 95 432 -19 re f*
+.94902 .960784 .968627 rg
+n 0 76 432 -19 re f*
+1 1 1 rg
+n 0 57 432 -19 re f*
+.94902 .960784 .968627 rg
+n 0 38 432 -19 re f*
+1 1 1 rg
+n 0 19 432 -19 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 99 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Platform) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 99 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Typical Area of Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Microsoft Power Apps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Business process apps, internal enterprise tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (OutSystems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Large-scale enterprise web and mobile applications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Mendix) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Enterprise application development with team collaboration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Appian) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Business process automation and workflow management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Bubble) Tj T* ET
+Q
+Q
+q
+1 0 0 1 141.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Web application prototypes and small to medium projects) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 114 m 432 114 l S
+n 0 0 m 432 0 l S
+n 0 0 m 0 114 l S
+n 432 0 m 432 114 l S
+n 0 95 m 432 95 l S
+n 0 76 m 432 76 l S
+n 0 57 m 432 57 l S
+n 0 38 m 432 38 l S
+n 0 19 m 432 19 l S
+n 136.8 0 m 136.8 114 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 186 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+0.501961 0.501961 0.501961 rg
+/gRLs0 gs
+BT
+/F2-0 60 Tf
+72 TL
+ET
+BT
+1 0 0 1 -150.12 0 Tm
+(241401017) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 7645
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 710 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (4. Key Differences Between Traditional Coding and Low-Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 1.992143 Tw (The table below summarizes the fundamental differences between the two approaches across a range of) Tj T* 0 Tw (parameters.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.6 424 cm
+q
+.180392 .290196 .384314 rg
+n 0 242 460.8 -19 re f*
+1 1 1 rg
+n 0 223 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 204 460.8 -30 re f*
+1 1 1 rg
+n 0 174 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 155 460.8 -19 re f*
+1 1 1 rg
+n 0 136 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 117 460.8 -30 re f*
+1 1 1 rg
+n 0 87 460.8 -30 re f*
+.94902 .960784 .968627 rg
+n 0 57 460.8 -19 re f*
+1 1 1 rg
+n 0 38 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 19 460.8 -19 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 227 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Parameter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 227 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 227 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Low-Code Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 208 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Development Method) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 208 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Manual writing of source code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 208 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Visual, drag-and-drop configuration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Required Skill Level) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Requires trained programmers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 178 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Usable by both developers and business) Tj T* (users) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Development Speed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Slower; every feature coded manually) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Faster; pre-built components reused) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 140 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Cost of Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 140 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Higher due to more time and manpower) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 140 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Lower due to reduced development time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 121 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Customization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 121 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Very high; full control over logic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 121 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Limited to platform capabilities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Maintenance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Manual updates and bug fixing required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 91 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Platform handles many updates) Tj T* (automatically) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Scalability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Highly scalable with proper architecture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Depends on the platform's scalability) Tj T* (limits) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Learning Curve) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Steep; needs programming expertise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Shallow; minimal training required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 23 cm
+q
+BT 1 0 0 1 0 2 Tm 11 TL /F1 9 Tf 0 0 0 rg (Testing & Debugging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Manual testing and debugging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL -0.0542 Tw (Built-in testing tools reduce manual effort) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Deployment Time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Weeks to months) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Days to weeks) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 242 m 460.8 242 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 242 l S
+n 460.8 0 m 460.8 242 l S
+n 0 223 m 460.8 223 l S
+n 0 204 m 460.8 204 l S
+n 0 174 m 460.8 174 l S
+n 0 155 m 460.8 155 l S
+n 0 136 m 460.8 136 l S
+n 0 117 m 460.8 117 l S
+n 0 87 m 460.8 87 l S
+n 0 57 m 460.8 57 l S
+n 0 38 m 460.8 38 l S
+n 0 19 m 460.8 19 l S
+n 115.2 0 m 115.2 242 l S
+n 288 0 m 288 242 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 414 cm
+Q
+q
+1 0 0 1 60 378 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (5. Major Improvements of Low-Code Over Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 342 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 1.121818 Tw (Low-code development brings several notable improvements over the traditional coding approach, explained) Tj T* 0 Tw (below.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 306 cm
+q
+BT 1 0 0 1 0 18 Tm 2.54375 Tw 14 TL /F2 10 Tf 0 0 0 rg (1. Faster Development Speed) Tj /F1 10 Tf ( \226 Applications can be built in days or weeks rather than months, since) Tj T* 0 Tw (developers lean on ready-made components and visual workflows instead of writing every line by hand.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 270 cm
+q
+BT 1 0 0 1 0 18 Tm .714 Tw 14 TL /F2 10 Tf 0 0 0 rg (2. Reduced Dependency on Skilled Programmers) Tj /F1 10 Tf ( \226 Business users and citizen developers with little or no) Tj T* 0 Tw (programming background can put together functional applications, easing the reliance on highly skilled coders.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 234 cm
+q
+BT 1 0 0 1 0 18 Tm 1.364375 Tw 14 TL /F2 10 Tf 0 0 0 rg (3. Lower Development Cost) Tj /F1 10 Tf ( \226 With less time and fewer specialized resources needed, the overall cost of) Tj T* 0 Tw (building and maintaining applications drops significantly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 198 cm
+q
+BT 1 0 0 1 0 18 Tm 2.488462 Tw 14 TL /F2 10 Tf 0 0 0 rg (4. Easier Maintenance and Updates) Tj /F1 10 Tf ( \226 Low-code platforms often handle automatic updates and built-in) Tj T* 0 Tw (security patches, simplifying maintenance compared to hand-coded applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 162 cm
+q
+BT 1 0 0 1 0 18 Tm .42625 Tw 14 TL /F2 10 Tf 0 0 0 rg (5. Improved Collaboration) Tj /F1 10 Tf ( \226 Because the application logic is easier to follow visually, business teams and IT) Tj T* 0 Tw (teams can work together more effectively.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 126 cm
+q
+BT 1 0 0 1 0 18 Tm .568462 Tw 14 TL /F2 10 Tf 0 0 0 rg (6. Built-in Integrations) Tj /F1 10 Tf ( \226 Low-code platforms typically ship with ready-made connectors for databases, APIs,) Tj T* 0 Tw (and third-party services, cutting out the need for custom integration code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 90 cm
+q
+BT 1 0 0 1 0 18 Tm .507 Tw 14 TL /F2 10 Tf 0 0 0 rg (7. Reduced Human Error) Tj /F1 10 Tf ( \226 Since much of the code is generated by the platform itself, there is less room for) Tj T* 0 Tw (syntax errors or logic mistakes compared to manual coding.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+0.501961 0.501961 0.501961 rg
+/gRLs0 gs
+BT
+/F2-0 60 Tf
+72 TL
+ET
+BT
+1 0 0 1 -150.12 0 Tm
+(241401017) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 1134
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 704 cm
+q
+BT 1 0 0 1 0 18 Tm 2.157333 Tw 14 TL /F2 10 Tf 0 0 0 rg (8. Rapid Prototyping) Tj /F1 10 Tf ( \226 Ideas can be turned into working prototypes quickly, letting businesses test and) Tj T* 0 Tw (validate concepts before committing to full-scale development.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 668 cm
+q
+BT 1 0 0 1 0 18 Tm 1.397857 Tw 14 TL /F2 10 Tf 0 0 0 rg (9. Simplified Testing) Tj /F1 10 Tf ( \226 Many low-code platforms bundle automated testing tools, cutting down the manual) Tj T* 0 Tw (effort needed to test each feature.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 632 cm
+q
+BT 1 0 0 1 0 18 Tm -0.103333 Tw 14 TL /F2 10 Tf 0 0 0 rg (10. Faster Response to Business Needs) Tj /F1 10 Tf ( \226 Because applications can be adjusted quickly through visual tools,) Tj T* 0 Tw (organizations can react faster to changing business requirements.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+0.501961 0.501961 0.501961 rg
+/gRLs0 gs
+BT
+/F2-0 60 Tf
+72 TL
+ET
+BT
+1 0 0 1 -150.12 0 Tm
+(241401017) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 6288
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 710 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (6. Development Process Comparison) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 2.270714 Tw (The table below compares the typical steps followed in each approach across the software development) Tj T* 0 Tw (lifecycle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.6 478 cm
+q
+.180392 .290196 .384314 rg
+n 0 188 460.8 -19 re f*
+1 1 1 rg
+n 0 169 460.8 -30 re f*
+.94902 .960784 .968627 rg
+n 0 139 460.8 -30 re f*
+1 1 1 rg
+n 0 109 460.8 -30 re f*
+.94902 .960784 .968627 rg
+n 0 79 460.8 -30 re f*
+1 1 1 rg
+n 0 49 460.8 -30 re f*
+.94902 .960784 .968627 rg
+n 0 19 460.8 -19 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 173 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Stage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 173 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Traditional Coding Process) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 173 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Low-Code Process) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 154 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Requirement Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 154 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Detailed technical requirement gathering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 143 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Business requirement gathering with) Tj T* (visual mapping) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 124 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 113 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Manual architecture and database) Tj T* (design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 113 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Drag-and-drop design of screens and) Tj T* (workflows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Writing code line by line in an IDE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 83 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Configuring components and connecting) Tj T* (workflows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 53 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Manual and automated test scripts) Tj T* (written by developers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 53 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Built-in testing modules provided by the) Tj T* (platform) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Deployment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Manual server setup and deployment) Tj T* (scripts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (One-click deployment through the) Tj T* (platform) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Maintenance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.2 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Continuous manual code updates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Platform-managed updates and patches) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 188 m 460.8 188 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 188 l S
+n 460.8 0 m 460.8 188 l S
+n 0 169 m 460.8 169 l S
+n 0 139 m 460.8 139 l S
+n 0 109 m 460.8 109 l S
+n 0 79 m 460.8 79 l S
+n 0 49 m 460.8 49 l S
+n 0 19 m 460.8 19 l S
+n 115.2 0 m 115.2 188 l S
+n 288 0 m 288 188 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 468 cm
+Q
+q
+1 0 0 1 60 440 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7 Tm /F2 11 Tf 18 TL (6.1 Team and Resource Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 420 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (The type and size of team required also differs significantly between the two approaches, as shown below.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.6 273 cm
+q
+.180392 .290196 .384314 rg
+n 0 139 460.8 -19 re f*
+1 1 1 rg
+n 0 120 460.8 -30 re f*
+.94902 .960784 .968627 rg
+n 0 90 460.8 -30 re f*
+1 1 1 rg
+n 0 60 460.8 -30 re f*
+.94902 .960784 .968627 rg
+n 0 30 460.8 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Role) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Low-Code Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Developers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Multiple specialized developers) Tj T* (required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (One or two developers can manage the) Tj T* (project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Designers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Separate UI/UX designer often) Tj T* (required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Built-in design templates reduce the) Tj T* (need for a dedicated designer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Database Administrators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Dedicated DBA needed for large) Tj T* (systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Platform manages most database) Tj T* (operations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Testers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Dedicated QA team for manual and) Tj T* (automated testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Built-in testing tools reduce the need for) Tj T* (a large QA team) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 139 m 460.8 139 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 139 l S
+n 460.8 0 m 460.8 139 l S
+n 0 120 m 460.8 120 l S
+n 0 90 m 460.8 90 l S
+n 0 60 m 460.8 60 l S
+n 0 30 m 460.8 30 l S
+n 122.4 0 m 122.4 139 l S
+n 288 0 m 288 139 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 263 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+0.501961 0.501961 0.501961 rg
+/gRLs0 gs
+BT
+/F2-0 60 Tf
+72 TL
+ET
+BT
+1 0 0 1 -150.12 0 Tm
+(241401017) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 7316
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 710 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (7. Advantages and Disadvantages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 682 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7 Tm /F2 11 Tf 18 TL (7.1 Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.6 562 cm
+q
+.180392 .290196 .384314 rg
+n 0 114 460.8 -19 re f*
+1 1 1 rg
+n 0 95 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 76 460.8 -19 re f*
+1 1 1 rg
+n 0 57 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 38 460.8 -19 re f*
+1 1 1 rg
+n 0 19 460.8 -19 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 99 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Advantages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 99 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Disadvantages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Complete control over application logic and design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Longer development time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Highly customizable to any business requirement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Requires skilled and experienced programmers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Better suited for complex, large-scale systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Higher development and maintenance cost) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (No dependency on third-party platform limitations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Higher chances of manual errors and bugs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Full ownership and portability of source code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Ongoing need for skilled developers for maintenance) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 114 m 460.8 114 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 114 l S
+n 460.8 0 m 460.8 114 l S
+n 0 95 m 460.8 95 l S
+n 0 76 m 460.8 76 l S
+n 0 57 m 460.8 57 l S
+n 0 38 m 460.8 38 l S
+n 0 19 m 460.8 19 l S
+n 223.2 0 m 223.2 114 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 552 cm
+Q
+q
+1 0 0 1 60 524 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 7 Tm /F2 11 Tf 18 TL (7.2 Low-Code Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.6 404 cm
+q
+.180392 .290196 .384314 rg
+n 0 114 460.8 -19 re f*
+1 1 1 rg
+n 0 95 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 76 460.8 -19 re f*
+1 1 1 rg
+n 0 57 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 38 460.8 -19 re f*
+1 1 1 rg
+n 0 19 460.8 -19 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 99 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Advantages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 99 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Disadvantages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Much faster application development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Limited customization for complex requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Lower cost and reduced manpower requirement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Dependency on the low-code platform vendor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Easy to learn and use for non-programmers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (May face scalability limitations for large systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Built-in tools reduce testing and integration effort) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Less control over underlying code and performance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Enables faster response to changing business needs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 228.2 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (May involve recurring platform subscription costs) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 114 m 460.8 114 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 114 l S
+n 460.8 0 m 460.8 114 l S
+n 0 95 m 460.8 95 l S
+n 0 76 m 460.8 76 l S
+n 0 57 m 460.8 57 l S
+n 0 38 m 460.8 38 l S
+n 0 19 m 460.8 19 l S
+n 223.2 0 m 223.2 114 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 394 cm
+Q
+q
+1 0 0 1 60 358 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (8. Cost and Time Illustration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 308 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 1.676429 Tw (The table below gives an illustrative comparison of the approximate development time typically needed for) Tj T* 0 Tw .6675 Tw (different project sizes under each approach. These figures are indicative and can vary with team size, project) Tj T* 0 Tw (complexity, and organizational factors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.4 191 cm
+q
+.180392 .290196 .384314 rg
+n 0 109 475.2 -30 re f*
+1 1 1 rg
+n 0 79 475.2 -19 re f*
+.94902 .960784 .968627 rg
+n 0 60 475.2 -30 re f*
+1 1 1 rg
+n 0 30 475.2 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 94 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Project Size) Tj T* ET
+Q
+Q
+q
+1 0 0 1 163.4 94 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Traditional Coding \(Approx. Time\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 83 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 13 Tm /F2 9 Tf 11 TL (Low-Code Approach \(Approx.) Tj T* (Time\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Small application \(e.g., leave tracker\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 163.4 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (3 to 5 weeks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (3 to 5 days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Medium application \(e.g., inventory) Tj T* (system\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 163.4 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (2 to 4 months) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (2 to 4 weeks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Large application \(e.g., enterprise) Tj T* (ERP module\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 163.4 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (6 to 12 months) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (2 to 4 months \(with limitations\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 109 m 475.2 109 l S
+n 0 0 m 475.2 0 l S
+n 0 0 m 0 109 l S
+n 475.2 0 m 475.2 109 l S
+n 0 79 m 475.2 79 l S
+n 0 60 m 475.2 60 l S
+n 0 30 m 475.2 30 l S
+n 158.4 0 m 158.4 109 l S
+n 316.8 0 m 316.8 109 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 181 cm
+Q
+q
+1 0 0 1 60 139 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL -0.095625 Tw (As project size and complexity grow, the time advantage of low-code platforms tends to shrink, particularly once) Tj T* 0 Tw 1.119333 Tw (requirements go beyond what the platform natively supports. In such cases, additional custom scripting or a) Tj T* 0 Tw (hybrid approach may be needed.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+0.501961 0.501961 0.501961 rg
+/gRLs0 gs
+BT
+/F2-0 60 Tf
+72 TL
+ET
+BT
+1 0 0 1 -150.12 0 Tm
+(241401017) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+20 0 obj
+<<
+/Contents 21 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 8171
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 710 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (9. Security and Compliance Considerations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL .206429 Tw (Security and regulatory compliance matter a great deal when choosing a development approach, especially for) Tj T* 0 Tw (applications handling sensitive data such as financial records, healthcare information, or government data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.6 527 cm
+q
+.180392 .290196 .384314 rg
+n 0 139 460.8 -19 re f*
+1 1 1 rg
+n 0 120 460.8 -30 re f*
+.94902 .960784 .968627 rg
+n 0 90 460.8 -30 re f*
+1 1 1 rg
+n 0 60 460.8 -30 re f*
+.94902 .960784 .968627 rg
+n 0 30 460.8 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Aspect) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 124 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Low-Code Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Data Control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Full control over data storage and) Tj T* (handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL -0.0992 Tw (Data often managed within the platform's) Tj T* 0 Tw (infrastructure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Custom Security Rules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Fully customizable security) Tj T* (implementation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Limited to the security features offered) Tj T* (by the platform) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Compliance Certification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Can be built to meet any specific) Tj T* (regulatory standard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Depends on whether the platform) Tj T* (already holds required certifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Code Auditing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 127.4 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Full source code available for) Tj T* (independent security audits) Tj T* ET
+Q
+Q
+q
+1 0 0 1 293 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL -0.0524 Tw (Underlying platform code is generally not) Tj T* 0 Tw (accessible for audit) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 139 m 460.8 139 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 139 l S
+n 460.8 0 m 460.8 139 l S
+n 0 120 m 460.8 120 l S
+n 0 90 m 460.8 90 l S
+n 0 60 m 460.8 60 l S
+n 0 30 m 460.8 30 l S
+n 122.4 0 m 122.4 139 l S
+n 288 0 m 288 139 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 517 cm
+Q
+q
+1 0 0 1 60 475 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL .525385 Tw (For applications with strict regulatory or security requirements, organizations should carefully check whether a) Tj T* 0 Tw .549167 Tw (low-code platform's built-in security and compliance certifications meet their specific industry standards before) Tj T* 0 Tw (adopting it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 439 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (10. Real-World Application Scenarios) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 403 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 1.916875 Tw (To better understand how each approach plays out in practice, the table below presents a few real-world) Tj T* 0 Tw (scenarios and identifies which development approach is generally preferred for each.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.6 196 cm
+q
+.180392 .290196 .384314 rg
+n 0 199 460.8 -19 re f*
+1 1 1 rg
+n 0 180 460.8 -30 re f*
+.94902 .960784 .968627 rg
+n 0 150 460.8 -30 re f*
+1 1 1 rg
+n 0 120 460.8 -30 re f*
+.94902 .960784 .968627 rg
+n 0 90 460.8 -30 re f*
+1 1 1 rg
+n 0 60 460.8 -30 re f*
+.94902 .960784 .968627 rg
+n 0 30 460.8 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 149 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Preferred Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.8 184 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Reason) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Banking core transaction system) Tj T* ET
+Q
+Q
+q
+1 0 0 1 149 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.8 154 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Requires very high security, performance, and full) Tj T* (customization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Employee leave request portal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 149 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Low-Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.8 124 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Simple workflow that can be built quickly using) Tj T* (forms and approvals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (E-commerce platform with) Tj T* (millions of users) Tj T* ET
+Q
+Q
+q
+1 0 0 1 149 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.8 94 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Needs high scalability and performance) Tj T* (optimization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Internal inventory tracking tool) Tj T* ET
+Q
+Q
+q
+1 0 0 1 149 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Low-Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.8 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Basic data entry and tracking with limited) Tj T* (complexity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Startup minimum viable product) Tj T* (\(MVP\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 149 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Low-Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.8 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Fast development helps validate the business idea) Tj T* (quickly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Government citizen-facing) Tj T* (application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 149 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Strict compliance, security, and long-term) Tj T* (maintainability needed) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 199 m 460.8 199 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 199 l S
+n 460.8 0 m 460.8 199 l S
+n 0 180 m 460.8 180 l S
+n 0 150 m 460.8 150 l S
+n 0 120 m 460.8 120 l S
+n 0 90 m 460.8 90 l S
+n 0 60 m 460.8 60 l S
+n 0 30 m 460.8 30 l S
+n 144 0 m 144 199 l S
+n 244.8 0 m 244.8 199 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 186 cm
+Q
+q
+1 0 0 1 60 150 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (11. When to Use Which Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 114 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL .348462 Tw (Choosing between traditional coding and low-code development depends on the nature, scale, and complexity) Tj T* 0 Tw (of the project. The table below offers general guidance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.6 68 cm
+q
+.180392 .290196 .384314 rg
+n 0 38 460.8 -19 re f*
+1 1 1 rg
+n 0 19 460.8 -19 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 23 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Situation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 23 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Recommended Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Large-scale enterprise systems with complex logic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 38 m 460.8 38 l S
+n 0 0 m 0 38 l S
+n 460.8 0 m 460.8 38 l S
+n 0 0 m 460.8 0 l S
+n 0 19 m 460.8 19 l S
+n 316.8 0 m 316.8 38 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+0.501961 0.501961 0.501961 rg
+/gRLs0 gs
+BT
+/F2-0 60 Tf
+72 TL
+ET
+BT
+1 0 0 1 -150.12 0 Tm
+(241401017) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+22 0 obj
+<<
+/Contents 23 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 2523
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 75.6 599 cm
+q
+.180392 .290196 .384314 rg
+n 0 133 460.8 -19 re f*
+1 1 1 rg
+n 0 114 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 95 460.8 -19 re f*
+1 1 1 rg
+n 0 76 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 57 460.8 -19 re f*
+1 1 1 rg
+n 0 38 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 19 460.8 -19 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 118 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Situation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 118 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Recommended Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Applications requiring high performance and customization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Quick business applications and internal tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Low-Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Rapid prototyping and proof-of-concept projects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Low-Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Projects with limited technical resources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Low-Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Applications with strict security and compliance needs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Simple workflow automation applications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Low-Code) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 133 m 460.8 133 l S
+n 0 114 m 0 133 l S
+n 0 0 m 0 114 l S
+n 460.8 114 m 460.8 133 l S
+n 460.8 0 m 460.8 114 l S
+n 0 0 m 460.8 0 l S
+n 0 114 m 460.8 114 l S
+n 316.8 114 m 316.8 133 l S
+n 0 95 m 460.8 95 l S
+n 0 76 m 460.8 76 l S
+n 0 57 m 460.8 57 l S
+n 0 38 m 460.8 38 l S
+n 0 19 m 460.8 19 l S
+n 316.8 0 m 316.8 114 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 589 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+0.501961 0.501961 0.501961 rg
+/gRLs0 gs
+BT
+/F2-0 60 Tf
+72 TL
+ET
+BT
+1 0 0 1 -150.12 0 Tm
+(241401017) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 6248
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 710 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (12. Challenges and Limitations of Low-Code Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 674 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 1.580714 Tw (Low-code development brings many improvements, but it's just as important to understand its limits before) Tj T* 0 Tw (deciding to adopt it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 652 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Limited flexibility for highly complex or unique business logic that the platform doesn't support.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 634 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Vendor lock-in, since applications built on a specific platform can be hard to migrate elsewhere.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 602 cm
+q
+BT 1 0 0 1 14 18 Tm 2.847857 Tw 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Performance limitations for applications that need very high processing speed or large-scale data) Tj T* 0 Tw (handling.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 584 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Security concerns, since the platform provider controls parts of the underlying infrastructure.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 566 cm
+q
+BT 1 0 0 1 14 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Less control over the final source code compared to applications built with traditional coding.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 520 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 1.86 Tw (Many of these challenges can be eased by carefully selecting a reputable low-code platform, checking its) Tj T* 0 Tw .179231 Tw (scalability and security certifications beforehand, and using a hybrid approach where traditional coding extends) Tj T* 0 Tw (the platform for specialized requirements it can't natively handle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 484 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (13. Future Outlook) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 420 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 46 Tm /F1 10 Tf 14 TL -0.096875 Tw (The push for faster software delivery is likely to keep both traditional coding and low-code development relevant) Tj T* 0 Tw 1.121333 Tw (for years to come. Traditional coding will stay essential for building the core, high-performance systems that) Tj T* 0 Tw 2.788462 Tw (power large organizations, while low-code platforms are expected to see growing adoption for business) Tj T* 0 Tw (applications, internal tools, and rapid digital transformation projects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 370 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 4.177143 Tw (Many organizations are now settling on a hybrid strategy, using low-code platforms for routine and) Tj T* 0 Tw -0.030833 Tw (time-sensitive applications while relying on traditional coding for mission-critical and highly specialized systems.) Tj T* 0 Tw (This blended approach lets teams balance speed, cost, and control based on what each project actually needs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 334 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (14. Summary of Key Takeaways) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 312 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 10 Tf 14 TL (The table below consolidates the most important points covered throughout this report for quick reference.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.6 133 cm
+q
+.180392 .290196 .384314 rg
+n 0 171 460.8 -19 re f*
+1 1 1 rg
+n 0 152 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 133 460.8 -19 re f*
+1 1 1 rg
+n 0 114 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 95 460.8 -19 re f*
+1 1 1 rg
+n 0 76 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 57 460.8 -19 re f*
+1 1 1 rg
+n 0 38 460.8 -19 re f*
+.94902 .960784 .968627 rg
+n 0 19 460.8 -19 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 156 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Factor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 156 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Better Suited Approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 137 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Speed of development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 137 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Low-Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 118 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Full customization and control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 118 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Cost efficiency for simple applications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Low-Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Handling highly complex business logic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Ease of use for non-technical staff) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 61 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Low-Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Long-term scalability for large systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Strict security and compliance needs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Traditional Coding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Rapid prototyping and MVPs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 321.8 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Low-Code) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 171 m 460.8 171 l S
+n 0 0 m 460.8 0 l S
+n 0 0 m 0 171 l S
+n 460.8 0 m 460.8 171 l S
+n 0 152 m 460.8 152 l S
+n 0 133 m 460.8 133 l S
+n 0 114 m 460.8 114 l S
+n 0 95 m 460.8 95 l S
+n 0 76 m 460.8 76 l S
+n 0 57 m 460.8 57 l S
+n 0 38 m 460.8 38 l S
+n 0 19 m 460.8 19 l S
+n 316.8 0 m 316.8 171 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 123 cm
+Q
+q
+1 0 0 1 60 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9 Tm /F2 13 Tf 22 TL (15. Conclusion) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+0.501961 0.501961 0.501961 rg
+/gRLs0 gs
+BT
+/F2-0 60 Tf
+72 TL
+ET
+BT
+1 0 0 1 -150.12 0 Tm
+(241401017) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+26 0 obj
+<<
+/Contents 27 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Length 1347
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 60 662 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 60 Tm /F1 10 Tf 14 TL .266 Tw (Both traditional coding and low-code development bring their own strengths and suit different kinds of projects.) Tj T* 0 Tw 1.17 Tw (Traditional coding remains the go-to choice for building complex, highly customized, large-scale applications) Tj T* 0 Tw .095385 Tw (where complete control and performance are essential. Low-code development, meanwhile, offers real gains in) Tj T* 0 Tw 4.582308 Tw (development speed, cost, ease of use, and collaboration, making it well-suited to rapid application) Tj T* 0 Tw (development, business tools, and prototypes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 612 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 1.472 Tw (In short, the low-code approach doesn't replace traditional coding but complements it, offering a faster and) Tj T* 0 Tw 1.720769 Tw (more accessible alternative for the right use cases. Organizations should weigh their project requirements,) Tj T* 0 Tw (complexity, budget, and timeline before settling on a development approach.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+0.501961 0.501961 0.501961 rg
+/gRLs0 gs
+BT
+/F2-0 60 Tf
+72 TL
+ET
+BT
+1 0 0 1 -150.12 0 Tm
+(241401017) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+xref
+0 28
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000177 00000 n 
+0000000226 00000 n 
+0000000510 00000 n 
+0000005196 00000 n 
+0000005303 00000 n 
+0000005410 00000 n 
+0000005522 00000 n 
+0000005634 00000 n 
+0000005920 00000 n 
+0000012126 00000 n 
+0000012412 00000 n 
+0000020110 00000 n 
+0000020396 00000 n 
+0000021583 00000 n 
+0000021869 00000 n 
+0000028210 00000 n 
+0000028496 00000 n 
+0000035865 00000 n 
+0000036151 00000 n 
+0000044375 00000 n 
+0000044661 00000 n 
+0000047237 00000 n 
+0000047523 00000 n 
+0000053824 00000 n 
+0000054110 00000 n 
+trailer
+<<
+/Size 28
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+55510
+%%EOF
